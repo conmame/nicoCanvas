@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="com.con_mame.nicoCanvas.Comment"/>
+<classEntry path="com.con_mame.nicoCanvas.NicoCanvas"/>
+<classEntry path="com.con_mame.nicoCanvas.NicoConstants"/>
+<classEntry path="com.con_mame.nicoCanvas.ParseCommands"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests/>
+</flexLibProperties>
